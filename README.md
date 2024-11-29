@@ -33,4 +33,4 @@ To run this project locally:
 
 1. Clone this repository using:
    ```bash
-   git clone https://github.com/your-username/your-repository-name.git
+   git clone https://github.com/abhinav7061/minicalculator.git
